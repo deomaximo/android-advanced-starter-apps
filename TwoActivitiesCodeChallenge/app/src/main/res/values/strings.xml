@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Two Activities Code Challenge</string>
+    <string name="btn_psg1">Passage 1</string>
+    <string name="btn_psg2">Passage 2</string>
+    <string name="btn_psg3">Passage 3</string>
+    <string name="txtPassage"></string>
+    <string-array name="passage1">Every one suspects himself of at least one of the cardinal virtues, and this is mine: I am one of the few honest people that I have ever known.</string-array>
+    <string-array name="passage2">But I remembered one thing: it wasn’t me that started acting deaf;it was people that first started acting like I was too dumb to hear or see or say anything at all.</string-array>
+    <string-array name="passage3">It is far better to endure patiently a smart which nobody feels but yourself, than to commit a hasty action whose evil consequences will extend to all connected with you; and besides, the Bible bids us return good for evil.</string-array>
+    <dimen name="padding_regular">8dp</dimen>
+
+</resources>

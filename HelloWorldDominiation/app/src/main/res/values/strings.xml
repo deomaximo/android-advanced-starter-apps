@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hello World Dominiation</string>
+    <string name="passage_1">Passage 1</string>
+    <string name="passage_2">Passage 2</string>
+    <string name="passage_3">Passage 3</string>
+    <string name="passage_msg1">Every one suspects himself of at least one of the cardinal virtues, and this is mine: I am one of the few honest people that I have ever known.”</string>
+    <string name="passage_msg2">You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You’re on your own. And you know what you know. And YOU are the one who’ll decide where to go…</string>
+    <string name="passage_msg3">It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.</string>
+    <string name="hi">hello</string>
+
+</resources>
